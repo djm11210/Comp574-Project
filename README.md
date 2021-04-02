@@ -29,3 +29,5 @@ Comp 574 Project
 
 
 ## The Source code is available here [Comp 574 Project Source Code](https://github.com/djm11210/Comp574-Project/blob/main/Comp574Project.ipynb)
+
+### The dataset file in CSV format [Dataset CSV file ](https://github.com/djm11210/Comp574-Project/blob/main/data.csv)
