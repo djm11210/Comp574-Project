@@ -5,7 +5,16 @@ Comp 574 Project
 ## The data is collected through the [balldontlie API](https://www.balldontlie.io/#introduction)
 
 
+### What is the data and what information is in each column
 
+1. there is a stats column that stores the stats of the NBA season
+2. there is a players column that stores all of the players In that NBA season
+3. there is a specific player column that stores all of information of a NBA player
+4. there is a team column that stores all of the NBA teams in the league
+5. there is a specific team column that stores all of information of a NBA Team
+6. there is a games column that stores all of the NBA games in a specific season
+7. there is a specific game column that stores all of the games information
+8. there is a season averages column that stores the season averages in a nba season
 
 
 
