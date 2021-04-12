@@ -43,4 +43,4 @@ Comp 574 Project
 
 ### Describe at least two more questions that your analysis is meant to answer using graphs. You should include at least two graphs of different kinds (e.g., pie chart, bar chart, histogram, box plots, etc.) to support your answer to these two questions. Explain the purpose of each graph and indicate what particular features are worth pointing out?
 1.best stats in each postion in the 2019 season
-2. average weight for each postion in the 2019 season
+2.average weight for each postion in the 2019 season
