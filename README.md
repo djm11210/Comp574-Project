@@ -38,5 +38,6 @@ Comp 574 Project
 ### Project Milestone 2
 
 ### Describe at least two questions that your analysis is meant to answer, and describe how these questions are answered
-1. average height in each postion in the 2019 season
+1. average height in each postion in the 2019 season how I would answer this question I would use df.loc to specify what column and row would I need. For the column it would be the 2019 season of the nba  and the row would be all the nba players that were in the league in 2019
+2. average salary for each postion in the 2019 season I would answer this question I would use df.loc to specify what column and row would I need. For the column it would be the 2019 season of the nba  and the row would all of the nba players salarys in the 2019 season.
 
