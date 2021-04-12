@@ -29,11 +29,11 @@ Comp 574 Project
 4. average weight for each postion in the 2019 season
 5. average salary for each postion in the 2019 season
 
-
-
 ## The Source code is available here [Comp 574 Project Source Code](https://github.com/djm11210/Comp574-Project/blob/main/Comp574Project.ipynb)
 
 ### The dataset file in CSV format [Dataset CSV file ](https://github.com/djm11210/Comp574-Project/blob/main/data.csv)
+
+
 
 ### Project Milestone 2
 
