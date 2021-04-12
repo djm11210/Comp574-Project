@@ -1,6 +1,9 @@
 # Comp574-Project
 Comp 574 Project
 
+### Project Milestone 1
+
+
 
 ## The data is collected through the [balldontlie API](https://www.balldontlie.io/#introduction)
 
@@ -31,3 +34,9 @@ Comp 574 Project
 ## The Source code is available here [Comp 574 Project Source Code](https://github.com/djm11210/Comp574-Project/blob/main/Comp574Project.ipynb)
 
 ### The dataset file in CSV format [Dataset CSV file ](https://github.com/djm11210/Comp574-Project/blob/main/data.csv)
+
+### Project Milestone 2
+
+### Describe at least two questions that your analysis is meant to answer, and describe how these questions are answered
+1. average height in each postion in the 2019 season
+
