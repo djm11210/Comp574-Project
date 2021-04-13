@@ -46,6 +46,7 @@ Comp 574 Project
 2. average salary for each postion in the 2019 season I would answer this question I would use df.loc to specify what column and row would I need. For the column it would be the 2019 season of the nba  and the row would all of the nba players salarys in the 2019 season.
 
 ### Describe at least two more questions that your analysis is meant to answer using graphs. You should include at least two graphs of different kinds (e.g., pie chart, bar chart, histogram, box plots, etc.) to support your answer to these two questions. Explain the purpose of each graph and indicate what particular features are worth pointing out?
+
 1.best stats in each postion in the 2019 season
 2.average weight for each postion in the 2019 season
 
