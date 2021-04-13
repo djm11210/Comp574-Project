@@ -47,8 +47,8 @@ Comp 574 Project
 
 ### Describe at least two more questions that your analysis is meant to answer using graphs. You should include at least two graphs of different kinds (e.g., pie chart, bar chart, histogram, box plots, etc.) to support your answer to these two questions. Explain the purpose of each graph and indicate what particular features are worth pointing out?
 
-1.best stats in each postion in the 2019 season
+1.best stats in each postion in the 2019 season I think this question would best be answered with a bar graph because it will display each of the 5 postions in basketball and what is the best stats in each postion. Bar graphs are easy to read and understand so I think it would be the best way to display the data.
 
-2.average weight for each postion in the 2019 season
+2.average weight for each postion in the 2019 season  I think the best graph to answer this question would be a histogram The reason why I think this would be one of the easiest graphs to understand and read and it works really well with this set of data
 
 ### Demonstrate with at least one example how to use groupby and/or merge operations using the Pandas library.
