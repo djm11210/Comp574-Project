@@ -40,6 +40,9 @@ Comp 574 Project
 ### The local notebook should connect to your data stored either in GCP BigQuery or in a GCP storage bucket. Your code should not read from local data files.
 
 ### Determine appropriate measures of central tendency (Mean, Mode, and Median ) and dispersion for at least three selected variables, including one quantitative variable (column) and one qualitative variable (column). For a quantitative variable, select at least one measure of central tendency and at least one measure of variance ( Sample Standard Deviation or Variance). For the qualitative variable, select one measure of central tendency.
+1. I think the appropiate measurement is mean because all of the questions i want to answer relate to the average
+2.
+
 
 ### Describe at least two questions that your analysis is meant to answer, and describe how these questions are answered
 1. average height in each postion in the 2019 season how I would answer this question I would use df.loc to specify what column and row would I need. For the column it would be the 2019 season of the nba  and the row would be all the nba players that were in the league in 2019
