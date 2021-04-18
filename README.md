@@ -41,7 +41,7 @@ Comp 574 Project
 
 ### Determine appropriate measures of central tendency (Mean, Mode, and Median ) and dispersion for at least three selected variables, including one quantitative variable (column) and one qualitative variable (column). For a quantitative variable, select at least one measure of central tendency and at least one measure of variance ( Sample Standard Deviation or Variance). For the qualitative variable, select one measure of central tendency.
 1. I think the appropiate measurement is mean because all of the questions i want to answer relate to the average
-2.
+2. qualitative variable  would be the stats column and it would be Sample Standard Deviation.
 
 
 ### Describe at least two questions that your analysis is meant to answer, and describe how these questions are answered
