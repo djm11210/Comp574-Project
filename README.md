@@ -47,13 +47,19 @@ t
 
 
 ### Describe at least two questions that your analysis is meant to answer, and describe how these questions are answered
-1. average height in each postion in the 2019 season how I would answer this question I would use df.loc to specify what column and row would I need. For the column it would be the 2019 season of the nba  and the row would be all the nba players that were in the league in 2019
-2. average salary for each postion in the 2019 season I would answer this question I would use df.loc to specify what column and row would I need. For the column it would be the 2019 season of the nba  and the row would all of the nba players salarys in the 2019 season.
+1. average height in each postion in the 2019 season how I would answer this question I would use df.loc to specify what column and row would I need. For the column it would be the 2019 season of the nba  and the row would be all the nba players that were in the league in 2019 and with that row I will be able to go though all of the players in the 2019 season and select the weight vaule of all of the players in the 2019 season and then I will select the players in each postion and that will show me all the players in the spefic postion along with all of there weight then i can use the mean() build in function and that will answer my question.that will answer my question.
+2. average salary for each postion in the 2019 season I would answer this question I would use df.loc to specify what column and row would I need. For the column it would be the 2019 season of the nba  and the row would all of the nba players salarys in the 2019 season. and with that row I will be able to go though all of the players in the 2019 season and select the salary vaule of all of the players in the 2019 season and then I will select the players in each postion and that will show me all the players in the spefic postion along with all of there salary then i can use the mean() build in function and that will answer my question.
 
 ### Describe at least two more questions that your analysis is meant to answer using graphs. You should include at least two graphs of different kinds (e.g., pie chart, bar chart, histogram, box plots, etc.) to support your answer to these two questions. Explain the purpose of each graph and indicate what particular features are worth pointing out?
 
-1.best stats in each postion in the 2019 season I think this question would best be answered with a bar graph because it will display each of the 5 postions in basketball and what is the best stats in each postion. Bar graphs are easy to read and understand so I think it would be the best way to display the data.
+1.best stats in each postion in the 2019 season I think this question would best be answered with a bar graph because it will display each of the 5 postions in basketball and what is the best stats in each postion. Bar graphs I think fits the best because there are muiple stats in the NBA some examples are 
+PTS: points
+FGM, FGA, FG%: field goals made, attempted and percentage
+FTM, FTA, FT%: free throws made, attempted and percentage
+3FGM, 3FGA, 3FG%: three-point field goals made, attempted and percentage
+REB, OREB, DREB: rebounds, offensive rebounds, defensive rebounds
+so with all of these diffent stats I think the bar graph will display all of the stats the best out of other graphs
 
-2.average weight for each postion in the 2019 season  I think the best graph to answer this question would be a histogram The reason why I think this would be one of the easiest graphs to understand and read and it works really well with this set of data
+2.average weight for each postion in the 2019 season  I think the best graph to answer this question would be a pie chart the reason why I think this is the best graph for this question is because there are only 5 postions in basketball center, power forward, small forward, point guard, and shooting guard. And we are only finding the average weight I think a pie chart would be the simplest and cleanest to show the data because we only need to find one vaule for each postion so theres only 5 vaules for the graph and I think a pie chart would show it off the best.
 
 ### Demonstrate with at least one example how to use groupby and/or merge operations using the Pandas library.
