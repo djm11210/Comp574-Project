@@ -44,7 +44,7 @@ t
 1. I think the appropiate measurement is mean because all of the questions i want to answer relate to the average
 2. qualitative variable  would be the stats column and it would be Sample Standard Deviation.
 3. quantitative variable would be the height column and it would be Sample Standard Deviation.
-4. quantitative variable would be the salary column and it would be Sample Standard Deviation.
+4. quantitative variable would be the average salary column and it would be Sample Standard Deviation.
 
 
 ### Describe at least two questions that your analysis is meant to answer, and describe how these questions are answered
