@@ -19,7 +19,7 @@ Comp 574 Project
 7. there is a specific game column that stores all of the games information
 8. there is a season averages column that stores the season averages in a nba season
 
-
+t
 
 ### Questions I want to answer with this project
 
