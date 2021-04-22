@@ -38,6 +38,7 @@ Comp 574 Project
 ### Project Milestone 2
 
 ### The local notebook should connect to your data stored either in GCP BigQuery or in a GCP storage bucket. Your code should not read from local data files.
+## The Source code is available here [Comp 574 Project Source Code](https://github.com/djm11210/Comp574-Project/blob/main/Comp574Project.ipynb)
 
 ### Determine appropriate measures of central tendency (Mean, Mode, and Median ) and dispersion for at least three selected variables, including one quantitative variable (column) and one qualitative variable (column). For a quantitative variable, select at least one measure of central tendency and at least one measure of variance ( Sample Standard Deviation or Variance). For the qualitative variable, select one measure of central tendency.
 1. I think the appropiate measurement is mean because all of the questions i want to answer relate to the average
